@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+chroma_db/
+downloades/
+*.wav
+*.mp3
+# local vector database (generated at runtime)
+vector_db/
